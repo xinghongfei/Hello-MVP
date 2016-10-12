@@ -12,7 +12,7 @@
 
 
 ####本项目架构图
-<img src="screenshots/MVP
+<img src="screenshots/mvp
 1.png"/>
 
 
